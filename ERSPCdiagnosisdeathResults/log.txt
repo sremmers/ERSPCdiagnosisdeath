@@ -1,0 +1,532 @@
+2021-03-01 08:08:26	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:08:26	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:08:26	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:08:26	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:10:13	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:10:13	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:10:13	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:10:13	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:10:13	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:10:13	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:12:25	[Main thread]	FATAL	ERSPCdiagnosisdeath	transportPlpModels	Error in if (file.exists(filesIn[i])) { : argument is of length zero 
+2021-03-01 08:12:25	[Main thread]	FATAL	ERSPCdiagnosisdeath	transportPlpModels	Error in if (file.exists(filesIn[i])) { : argument is of length zero 
+2021-03-01 08:12:25	[Main thread]	FATAL	ERSPCdiagnosisdeath	transportPlpModels	Error in if (file.exists(filesIn[i])) { : argument is of length zero 
+2021-03-01 08:12:25	[Main thread]	FATAL	ERSPCdiagnosisdeath	transportPlpModels	Error in if (file.exists(filesIn[i])) { : argument is of length zero 
+2021-03-01 08:24:06	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:06	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:06	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:06	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:06	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:06	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:06	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:06	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:06	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:06	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:24:55	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:13	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:29:36	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:30:57	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-01 08:33:44	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 10:16:08	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-02 10:16:08	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-02 10:19:41	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 10:19:41	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 10:19:41	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 10:19:41	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 10:21:45	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-02 10:21:45	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-02 10:21:45	[Main thread]	INFO	ERSPCdiagnosisdeath	execute	Creating cohorts
+2021-03-02 10:21:45	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-02 10:21:45	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-02 10:21:45	[Main thread]	FATAL	rJava	.jcheck	Error in rJava::.jcall(jdbcDriver, "Ljava/sql/Connection;", "connect",  :    org.postgresql.util.PSQLException: The connection attempt failed. 
+2021-03-02 10:49:38	[Main thread]	WARN	PatientLevelPrediction	configurePython	Conda environment r-reticulate exists.  You can use removePython() to remove if you want to fresh config
+2021-03-02 10:49:38	[Main thread]	WARN	PatientLevelPrediction	configurePython	Conda environment r-reticulate exists.  You can use removePython() to remove if you want to fresh config
+2021-03-02 10:49:38	[Main thread]	WARN	PatientLevelPrediction	configurePython	Conda environment r-reticulate exists.  You can use removePython() to remove if you want to fresh config
+2021-03-02 10:49:38	[Main thread]	INFO	PatientLevelPrediction	configurePython	Adding python dependancies to r-reticulate
+2021-03-02 10:49:38	[Main thread]	INFO	PatientLevelPrediction	configurePython	Adding python dependancies to r-reticulate
+2021-03-02 10:49:38	[Main thread]	INFO	PatientLevelPrediction	configurePython	Adding python dependancies to r-reticulate
+2021-03-02 10:54:49	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 10:54:49	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 10:54:49	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 10:57:58	[Main thread]	FATAL			Error: unexpected 'for' in "Details for" 
+2021-03-02 10:57:58	[Main thread]	FATAL			Error: unexpected 'for' in "Details for" 
+2021-03-02 10:57:58	[Main thread]	FATAL			Error: unexpected 'for' in "Details for" 
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart is depreciated - please use startAnchor instead
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart is depreciated - please use startAnchor instead
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToStart is depreciated - please use startAnchor instead
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd specificed so being used
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd is depreciated - please use endAnchor instead
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd is depreciated - please use endAnchor instead
+2021-03-02 10:59:06	[Main thread]	WARN	PatientLevelPrediction	createStudyPopulation	addExposureDaysToEnd is depreciated - please use endAnchor instead
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	outcomeId: 2
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	outcomeId: 2
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	outcomeId: 2
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	binary: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	binary: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	binary: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	includeAllOutcomes: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	includeAllOutcomes: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	includeAllOutcomes: TRUE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	firstExposureOnly: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	firstExposureOnly: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	firstExposureOnly: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	washoutPeriod: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	washoutPeriod: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	washoutPeriod: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	removeSubjectsWithPriorOutcome: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	removeSubjectsWithPriorOutcome: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	removeSubjectsWithPriorOutcome: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	requireTimeAtRisk: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	requireTimeAtRisk: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	requireTimeAtRisk: FALSE
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	minTimeAtRisk: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	minTimeAtRisk: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	minTimeAtRisk: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowStart: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowStart: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowStart: 0
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	startAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	startAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	startAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowEnd: 365
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowEnd: 365
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	riskWindowEnd: 365
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	endAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	endAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	createStudyPopulation	endAnchor: cohort start
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	createStudyPopulation	Removing subjects with no time at risk (if any)
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	createStudyPopulation	Removing subjects with no time at risk (if any)
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	createStudyPopulation	Removing subjects with no time at risk (if any)
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	createStudyPopulation	Outcome is 0 or 1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	createStudyPopulation	Outcome is 0 or 1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	createStudyPopulation	Outcome is 0 or 1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Patient-Level Prediction Package version 4.1.0
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Patient-Level Prediction Package version 4.1.0
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Patient-Level Prediction Package version 4.1.0
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	AnalysisID:         20210302105906
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	AnalysisID:         20210302105906
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	AnalysisID:         20210302105906
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	CohortID:           1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	CohortID:           1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	CohortID:           1
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	OutcomeID:          2
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	OutcomeID:          2
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	OutcomeID:          2
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cohort size:        2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cohort size:        2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cohort size:        2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Covariates:         33801
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Covariates:         33801
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Covariates:         33801
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Population size:    2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Population size:    2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Population size:    2000
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cases:              165
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cases:              165
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Cases:              165
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Parameter Check Started
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Parameter Check Started
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Parameter Check Started
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testSplit: stratified
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testSplit: stratified
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testSplit: stratified
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	outcomeCount: 165
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	outcomeCount: 165
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	outcomeCount: 165
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	plpData class: plpData
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	plpData class: plpData
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	plpData class: plpData
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testfraction: 0.5
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testfraction: 0.5
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	testfraction: 0.5
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold class: numeric
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold class: numeric
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold class: numeric
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold: 3
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold: 3
+2021-03-02 10:59:06	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	nfold: 3
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Dataset stratified split started
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Dataset stratified split started
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Dataset stratified split started
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	splitSeed: -6907281
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	splitSeed: -6907281
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	splitSeed: -6907281
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Creating a 50% test and 50% train (into 3 folds) random stratified split by class
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Creating a 50% test and 50% train (into 3 folds) random stratified split by class
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Creating a 50% test and 50% train (into 3 folds) random stratified split by class
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Data split into 999 test cases and 1001 train cases (334, 334, 333)
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Data split into 999 test cases and 1001 train cases (334, 334, 333)
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	randomSplitter	Data split into 999 test cases and 1001 train cases (334, 334, 333)
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 10:59:06	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Training Lasso Logistic Regression model
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Training Lasso Logistic Regression model
+2021-03-02 10:59:06	[Main thread]	INFO	PatientLevelPrediction	runPlp	Training Lasso Logistic Regression model
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 0 redundant covariates
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 0 redundant covariates
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Removing 0 redundant covariates
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Normalizing covariates
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Normalizing covariates
+2021-03-02 11:00:36	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Normalizing covariates
+2021-03-02 11:01:37	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Tidying covariates took 2.52 mins
+2021-03-02 11:01:37	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Tidying covariates took 2.52 mins
+2021-03-02 11:01:37	[Main thread]	INFO	FeatureExtraction	tidyCovariateData	Tidying covariates took 2.52 mins
+2021-03-02 11:01:37	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:01:37	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:01:37	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:02:32	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:02:32	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:02:32	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:03:24	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Running Cyclops
+2021-03-02 11:03:24	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Running Cyclops
+2021-03-02 11:03:24	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Running Cyclops
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Done.
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Done.
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Done.
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	GLM fit status:  OK
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	GLM fit status:  OK
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	GLM fit status:  OK
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Fitting model took 3.03 mins
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Fitting model took 3.03 mins
+2021-03-02 11:04:39	[Main thread]	INFO	PatientLevelPrediction	fitGLMModel	Fitting model took 3.03 mins
+2021-03-02 11:05:27	[Main thread]	TRACE	PatientLevelPrediction	fitLassoLogisticRegression	Returned from fitting to LassoLogisticRegression
+2021-03-02 11:05:27	[Main thread]	TRACE	PatientLevelPrediction	fitLassoLogisticRegression	Returned from fitting to LassoLogisticRegression
+2021-03-02 11:05:27	[Main thread]	TRACE	PatientLevelPrediction	fitLassoLogisticRegression	Returned from fitting to LassoLogisticRegression
+2021-03-02 11:05:27	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Creating variable importance data frame
+2021-03-02 11:05:27	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Creating variable importance data frame
+2021-03-02 11:05:27	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Creating variable importance data frame
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Getting predictions on train set
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Getting predictions on train set
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	fitLassoLogisticRegression	Getting predictions on train set
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:05:28	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:06:21	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:06:21	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:06:21	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:06:21	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.625 secs
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.625 secs
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.625 secs
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Returned from classifier function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Returned from classifier function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Returned from classifier function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Creating prediction function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Creating prediction function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Creating prediction function
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Adding index
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Adding index
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction		Adding index
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done fitting.
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done fitting.
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done fitting.
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Prediction
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Prediction
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Prediction
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictPlp	Calculating prediction for 999 in dataset
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictPlp	Calculating prediction for 999 in dataset
+2021-03-02 11:06:22	[Main thread]	TRACE	PatientLevelPrediction	predictPlp	Calculating prediction for 999 in dataset
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:06:22	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:07:24	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:07:24	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:07:24	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:08:18	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:08:18	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:08:18	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Starting to limit covariate data to population...
+2021-03-02 11:09:11	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:09:11	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:09:11	[Main thread]	INFO	PatientLevelPrediction	limitCovariatesToPopulation	Finished limiting covariate data to population...
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities start
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:09:11	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda start
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predictProbabilities	predictProbabilities - predictAndromeda end
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.578 secs
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.578 secs
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	predictProbabilities	Prediction took 0.578 secs
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	predict.plp	predict.plp - predictingProbabilities end
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done predict.
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done predict.
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done predict.
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction null: FALSE
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction null: FALSE
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction null: FALSE
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction unique values: 834
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction unique values: 834
+2021-03-02 11:09:12	[Main thread]	DEBUG	PatientLevelPrediction	runPlp	prediction unique values: 834
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Train set evaluation
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Train set evaluation
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Train set evaluation
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                96.49
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                96.49
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                96.49
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      94.08
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      94.08
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      94.08
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      98.90
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      98.90
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      98.90
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              88.71
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              88.71
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              88.71
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.02
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.02
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.02
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0829 : observed risk 0.0829
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0829 : observed risk 0.0829
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0829 : observed risk 0.0829
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: 0 - gradient:1.1439
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: 0 - gradient:1.1439
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: 0 - gradient:1.1439
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.29 intercept:         -0.02
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.29 intercept:         -0.02
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.29 intercept:         -0.02
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.89
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.89
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.89
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Test set evaluation
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Test set evaluation
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	runPlp	Test set evaluation
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUC
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                88.63
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                88.63
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUC:                88.63
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      83.36
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      83.36
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% lower AUC:      83.36
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      93.90
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      93.90
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	95% upper AUC:      93.90
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating AUPRC
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              74.15
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              74.15
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	AUPRC:              74.15
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Brier Score
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.03
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.03
+2021-03-02 11:09:12	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Brier:              0.03
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Threshold summary Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:12	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:12
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calulating Demographic Based Evaluation Started @ 2021-03-02 11:09:12
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration-in-large
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0844 : observed risk 0.0821
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0844 : observed risk 0.0821
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Calibration in large- Mean predicted risk 0.0844 : observed risk 0.0821
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Weak Calibration
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: -0.0668 - gradient:1.0905
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: -0.0668 - gradient:1.0905
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Weak calibration intercept: -0.0668 - gradient:1.0905
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Hosmer-Lemeshow Calibration Line
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.10 intercept:         -0.01
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.10 intercept:         -0.01
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Hosmer-Lemeshow calibration gradient: 1.10 intercept:         -0.01
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Calibration Summary Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Calculating Quantiles Started @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	evaluatePlp	Completed @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.74
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.74
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	evaluatePlp	Average Precision:  0.74
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:59	[Main thread]	TRACE	PatientLevelPrediction	runPlp	Done.
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	Calculating covariate summary @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	Calculating covariate summary @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	Calculating covariate summary @ 2021-03-02 11:09:59
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	This can take a while...
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	This can take a while...
+2021-03-02 11:09:59	[Main thread]	INFO	PatientLevelPrediction	runPlp	This can take a while...
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Finished covariate summary @ 2021-03-02 11:11:00
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Finished covariate summary @ 2021-03-02 11:11:00
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Finished covariate summary @ 2021-03-02 11:11:00
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Log saved to /Users/remmers/Documents/Werk/PIONEER/Studyathon 2021/Practice/ERSPCdiagnosisdeath/20210302105906/plplog.txt
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Log saved to /Users/remmers/Documents/Werk/PIONEER/Studyathon 2021/Practice/ERSPCdiagnosisdeath/20210302105906/plplog.txt
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Log saved to /Users/remmers/Documents/Werk/PIONEER/Studyathon 2021/Practice/ERSPCdiagnosisdeath/20210302105906/plplog.txt
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Run finished successfully.
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Run finished successfully.
+2021-03-02 11:11:00	[Main thread]	INFO	PatientLevelPrediction	runPlp	Run finished successfully.
+2021-03-02 13:27:48	[Main thread]	FATAL	ERSPCdiagnosisdeath	populateShinyApp	Error in file.path(outputDirectory, "data") :    object 'outputDirectory' not found 
+2021-03-02 13:45:01	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 13:45:01	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 13:45:01	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'
+2021-03-02 13:45:01	[Main thread]	WARN	utils	download.file	cannot open URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'

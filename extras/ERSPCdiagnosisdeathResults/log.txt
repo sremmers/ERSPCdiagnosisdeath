@@ -1,0 +1,12 @@
+2021-03-02 09:38:28	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 09:38:28	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 09:38:28	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 09:38:28	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 09:44:28	[Main thread]	FATAL			Error in runPlp() : could not find function "runPlp" 
+2021-03-02 09:44:28	[Main thread]	FATAL			Error in runPlp() : could not find function "runPlp" 
+2021-03-02 09:45:00	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 09:45:00	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 09:45:00	[Main thread]	WARN	utils	read.table	cannot open file './ERSPCdiagnosisdeathResults/settings.csv': No such file or directory
+2021-03-02 09:45:00	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 09:45:00	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
+2021-03-02 09:45:00	[Main thread]	FATAL	utils	read.table	Error in file(file, "rt") : cannot open the connection 
